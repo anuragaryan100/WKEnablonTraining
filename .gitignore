@@ -2,3 +2,4 @@ exclude.class
 *.jar
 Day*.txt
 /IgnoreFolder/
+Test1.txt

@@ -4,11 +4,8 @@ line- 3
 'cgcghcjv-
 dddddddddddddddddd
 eeeeeeeeeeeeeeeeeeeeee-
-
 ghhjnlhnkjnjk-
 khjhgj-
 hbjhb-
-
-bug123- fixed
-
-master change
+bug123 fixed
+worked on CR2branch, all sentences starts with lowercase.

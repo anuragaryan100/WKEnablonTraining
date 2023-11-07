@@ -9,3 +9,4 @@ khjhgj-
 hbjhb-
 bug123 fixed
 worked on CR2branch, all sentences starts with lowercase.
+Master changes dome || to CR2 branch
